@@ -1,0 +1,45 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "Designation",
+      "EMAIL",
+      "EMPLOYEE_ID",
+      "FIRST_NAME",
+      "JOB_ID",
+      "LAST_NAME",
+      "PHONE_NUMBER",
+      "SALARY"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "objectId"
+      },
+      "Designation": {
+        "bsonType": "string"
+      },
+      "EMAIL": {
+        "bsonType": "string"
+      },
+      "EMPLOYEE_ID": {
+        "bsonType": "int"
+      },
+      "FIRST_NAME": {
+        "bsonType": "string"
+      },
+      "JOB_ID": {
+        "bsonType": "string"
+      },
+      "LAST_NAME": {
+        "bsonType": "string"
+      },
+      "PHONE_NUMBER": {
+        "bsonType": "string"
+      },
+      "SALARY": {
+        "bsonType": "int"
+      }
+    }
+  }
+}

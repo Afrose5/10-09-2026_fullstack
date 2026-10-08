@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9ca"
+  },
+  "EMPLOYEE_ID": 1001,
+  "FIRST_NAME": "SHAIK",
+  "LAST_NAME": "AFROSE",
+  "EMAIL": "shaik.afrose585@outlook.com",
+  "PHONE_NUMBER": "8639229545",
+  "JOB_ID": "MGR101",
+  "SALARY": 95000,
+  "Designation": "Manager"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9cb"
+  },
+  "EMPLOYEE_ID": 1002,
+  "FIRST_NAME": "Neha",
+  "LAST_NAME": "Chowdary",
+  "EMAIL": "neha.chowdary@outlook.com",
+  "PHONE_NUMBER": "9876543211",
+  "JOB_ID": "ASE201",
+  "SALARY": 65000,
+  "Designation": "Asst Engineer"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9cc"
+  },
+  "EMPLOYEE_ID": 1003,
+  "FIRST_NAME": "Rahul",
+  "LAST_NAME": "Varma",
+  "EMAIL": "rahul.varma@outlook.com",
+  "PHONE_NUMBER": "9876543212",
+  "JOB_ID": "PH301",
+  "SALARY": 105000,
+  "Designation": "Project Head"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9cd"
+  },
+  "EMPLOYEE_ID": 1004,
+  "FIRST_NAME": "Sai",
+  "LAST_NAME": "Sree",
+  "EMAIL": "sai.sree@outlook.com",
+  "PHONE_NUMBER": "9876543213",
+  "JOB_ID": "ENG401",
+  "SALARY": 72000,
+  "Designation": "Engineer"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9ce"
+  },
+  "EMPLOYEE_ID": 1005,
+  "FIRST_NAME": "Sanjay",
+  "LAST_NAME": "Kumar",
+  "EMAIL": "sanjay.kumar@outlook.com",
+  "PHONE_NUMBER": "9876543214",
+  "JOB_ID": "TLM501",
+  "SALARY": 88000,
+  "Designation": "Team Lead"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9cf"
+  },
+  "EMPLOYEE_ID": 1006,
+  "FIRST_NAME": "Ankita",
+  "LAST_NAME": "Reddy",
+  "EMAIL": "ankita.reddy@outlook.com",
+  "PHONE_NUMBER": "9876543215",
+  "JOB_ID": "HR601",
+  "SALARY": 60000,
+  "Designation": "HR Manager"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9d0"
+  },
+  "EMPLOYEE_ID": 1007,
+  "FIRST_NAME": "Vikram",
+  "LAST_NAME": "Singh",
+  "EMAIL": "vikram.singh@outlook.com",
+  "PHONE_NUMBER": "9876543216",
+  "JOB_ID": "DEV701",
+  "SALARY": 78000,
+  "Designation": "Developer"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9d1"
+  },
+  "EMPLOYEE_ID": 1008,
+  "FIRST_NAME": "Shreyas",
+  "LAST_NAME": "Iyer",
+  "EMAIL": "shreyas.iyer@outlook.com",
+  "PHONE_NUMBER": "9876543217",
+  "JOB_ID": "ANL801",
+  "SALARY": 70000,
+  "Designation": "Analyst"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9d2"
+  },
+  "EMPLOYEE_ID": 1009,
+  "FIRST_NAME": "Kiran",
+  "LAST_NAME": "Malhotra",
+  "EMAIL": "kiran.malhotra@outlook.com",
+  "PHONE_NUMBER": "9876543218",
+  "JOB_ID": "QAL901",
+  "SALARY": 64000,
+  "Designation": "QA Engineer"
+},
+{
+  "_id": {
+    "$oid": "6aa269375d67bc2a5770c9d3"
+  },
+  "EMPLOYEE_ID": 1010,
+  "FIRST_NAME": "Joshi",
+  "LAST_NAME": "Sai",
+  "EMAIL": "joshi.sai@outlook.com",
+  "PHONE_NUMBER": "9876543219",
+  "JOB_ID": "ADM001",
+  "SALARY": 55000,
+  "Designation": "Administrator"
+}]
